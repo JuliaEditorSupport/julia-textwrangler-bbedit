@@ -1018,6 +1018,7 @@
             <string>stringmime</string>
             <string>strip</string>
             <string>strptime</string>
+            <string>struct</string>
             <string>strwidth</string>
             <string>sub2ind</string>
             <string>sub</string>
