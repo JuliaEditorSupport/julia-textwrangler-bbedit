@@ -716,6 +716,7 @@
             <string>module_parent</string>
             <string>mtime</string>
             <string>muladd</string>
+            <string>mutable</string>
             <string>mv</string>
             <string>myid</string>
             <string>myindexes</string>
